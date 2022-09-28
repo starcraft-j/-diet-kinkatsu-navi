@@ -35,23 +35,6 @@
             </th>
 
             <th style="background-color: #fff">
-
-                <p style="text-align:center">
-                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/bise.php<?php echo "?" . $query2; ?>">
-                        <img src="./img/n_img/bise.jpg" alt="" />
-                    </a>
-                </p>
-                <p style="text-align:center">
-                    <strong>
-                        <span style="font-size:13px" class="lbg">
-                            <a target="_blank"
-                                href="http://xn--hdks4057bh4s.net/links/bise.php<?php echo "?" . $query2; ?>">ビセラ</a>
-                        </span>
-                    </strong>
-                </p>
-            </th>
-
-            <th style="background-color: #fff">
                 <p style="text-align:center">
                     <a target="_blank" href="http://xn--hdks4057bh4s.net/links/llulu.php<?php echo "?" . $query2; ?>">
                         <img src="./img/llulu.png" alt="" width="170" />
@@ -66,6 +49,25 @@
                     </strong>
                 </p>
             </th>
+
+            <th style="background-color: #fff">
+
+                <!-- <p style="text-align:center">
+                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/ec.php<?php echo "?" . $query2; ?>">
+                        <img src="https://xn--hdks4057bh4s.net/w/wp-content/uploads/2018/05/ec_new.png" alt="" />
+                    </a>
+                </p>
+                <p style="text-align:center">
+                    <strong>
+                        <span style="font-size:13px" class="lbg">
+                            <a target="_blank"
+                                href="http://xn--hdks4057bh4s.net/links/ec.php<?php echo "?" . $query2; ?>">乳酸菌（EC-12）</a>
+                        </span>
+                    </strong>
+                </p> -->
+            </th>
+
+            
         </tr>
 
 
@@ -88,14 +90,14 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>「GMP」基準に合格</span>
+                <span>トリプル乳酸菌9000億</span>
             </td>
                     
             <td>
-                <p style="text-align:center">
+                <!-- <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>トリプル乳酸菌9000億</span>
+                <span>1包あたり1兆個の乳酸菌</span> -->
             </td>
         </tr>
 
@@ -120,13 +122,13 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>特殊加工カプセルを採用</span>
+                <span>酪酸菌を採用</span>
             </td>
             <td>
-                <p style="text-align:center">
+                <!-- <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>酪酸菌を採用</span>
+                <span>フェカリス菌が死滅した状態でも作用</span> -->
             </td>
         </tr>
 
@@ -153,14 +155,14 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>短鎖脂肪酸・ラクリス菌・EC-12・ナノ乳酸菌</span>
+                <span>スポルス、植物性ナノ型乳酸菌SNK、ヘルパー乳酸菌など</span>
             </td>
 
             <td>
-                <p style="text-align:center">
+                <!-- <p style="text-align:center">
                     <img src="./img/n_img/r_check_02.png" alt="" />
                 </p>
-                <span>スポルス、植物性ナノ型乳酸菌SNK、ヘルパー乳酸菌など</span>
+                <span>乳酸菌EC-12（殺菌乳酸菌）</span> -->
             </td>
         </tr>
 
@@ -186,15 +188,16 @@
                 <p style="text-align:center">
                     <img src="./img/n_img/r_check_01.png" alt="" />
                 </p>
-                <span>初回500円(税込)</span>
+                <span class="red bold">300円引きクーポン適用で初回198円！</span>
+            </td>
+            <td>
+                <!-- <p style="text-align:center">
+                    <img src="./img/n_img/r_check_02.png" alt="" />
+                </p>
+                <span>初回1,955円(税込)</span> -->
+
             </td>
 
-            <td>
-                <p style="text-align:center">
-                    <img src="./img/n_img/r_check_01.png" alt="" />
-                </p>
-                <span>初回498円(税込)</span>
-            </td>
         </tr>
 
 
@@ -222,20 +225,22 @@
 
             <td>
                 <p style="text-align:center">
-
-                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/bise.php<?php echo "?" . $query2; ?>">
-                        <img src="./img/n_img/btn_site_go_s.png" alt=""  width="160">
-                    </a>
-
-                </p>
-            </td>
-
-            <td>
-                <p style="text-align:center">
                     <a target="_blank" href="http://xn--hdks4057bh4s.net/links/llulu.php<?php echo "?" . $query2; ?>">
                         <img src="./img/n_img/btn_site_go_s.png" alt=""  width="160">
                     </a>
                 </p>
             </td>
+
+            <td>
+                <!-- <p style="text-align:center">
+
+                    <a target="_blank" href="http://xn--hdks4057bh4s.net/links/ec.php<?php echo "?" . $query2; ?>">
+                        <img src="./img/n_img/btn_site_go_s.png" alt=""  width="160">
+                    </a>
+
+                </p> -->
+            </td>
+
+           
     </tbody>
 </table>

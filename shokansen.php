@@ -11,7 +11,7 @@
     </h1>
 
     <section id="kiji__box">
-        
+
         <small style="display: block; text-align: right;">PR:ジェイフロンティア</small>
 
         <div class="kiji__fv">
@@ -63,7 +63,7 @@
 
         <div class="text-box">
             <img src="img/kiji/image9.png" alt="">
-            <p>『生漢煎「防風通聖散」』は、<br />累計販売数4,500万包を突破した今話題の漢方薬です♪</p>
+            <p>『生漢煎「防風通聖散」』は、<br />累計販売数1億包を突破した今話題の漢方薬です♪</p>
             <p>そして、『生漢煎「防風通聖散」』は、<br /></p>
             <p>❌　サプリメント<br />
                 ⭕　漢方薬（医薬品）</p>
@@ -138,7 +138,7 @@
             <h3 class="midashi-h3-01">（４）メディアに多数掲載！芸能人も注目！</h3>
             <img src="img/kiji/image7.png" alt="">
 
-            <p>女優の神田うのさん、井上和香さん、青木英李さんなど、数多くの芸能人も注目している！</p>
+            <p>女優の神田うのさん、井上和香さんなど、数多くの芸能人も注目している！</p>
             <p>TV、雑誌など多数メディアにも掲載されている今話題の漢方薬が『生漢煎「防風通聖散」』です♪</p>
             <p>&nbsp;</p>
 
@@ -300,7 +300,7 @@
 
     </section>
 
-    
+
 
     <div id="footer">
         <div class="inner">
@@ -312,7 +312,7 @@
             <p>Copyright (C) 2018 優良乳酸菌サプリメントをご紹介All Rights Reserved.</p>
         </div>
     </div>
-    
+
 
 </div>
 
@@ -335,5 +335,3 @@
 </body>
 
 </html>
-
-    
