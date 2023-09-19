@@ -44,7 +44,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    
 }
   </style>
-
+  <script>
+      function route_query(){
+      var _KEYS = ["gclid", "yclid", "fbclid","msclkid"];
+      var _LPU = "https://xn--hdks4057bh4s.net/";
+      var _LPTU = "./";
+      var _ATTRN = "href";
+      var _OPSL = ["^=", "=", "*="];
+      var _OPSV = 0;
+      var _params = location.search.substring(1).split("&");
+      var _in = [];
+      _KEYS.forEach(function (key){ _params.forEach(function (param){ var kv = param.split("="); if(kv[0] === key){ _in[key] = kv[1]; } }); });
+      var _pp = ""; Object.keys(_in).forEach(function (key){ _pp += "key[]=AC_" + key + "&"; _pp += "val[]=" + _in[key] + "&"; localStorage.setItem("AC_" + key, _in[key]); }); _pp = _pp.slice(0, -1); _LPTU += "route_tag.php?" + _pp;
+      _xhr = new XMLHttpRequest(); _xhr.open("GET", _LPTU, false); _xhr.onreadystatechange = function (){ if(_xhr.readyState === 4 && _xhr.status !== 200){ Object.keys(_in).forEach(function (key){ if(_in[key]){ document.cookie = "AC_" + key + "=" + decodeURIComponent(_in[key]) + "; expires=" + new Date(new Date().getTime() + 63072000000).toUTCString(); } }); } }; _xhr.send();
+      var _cookie = document.cookie.split("; "); var _out = _in; _KEYS.forEach(function (key){ if(_out.hasOwnProperty(key)){ return; } if(!_out[key]){ _cookie.forEach(function (param){ var kv = param.split("="); if(kv[0] === "AC_" + key){ _out[key] = kv[1]; } }); } if(!_out[key] && localStorage.getItem("AC_" + key)){ _out[key] = localStorage.getItem("AC_" + key); } if(!_out[key]){ _out[key] = ""; } });
+      var _node_list = document.querySelectorAll("[" + _ATTRN + _OPSL[_OPSV] + '"' + _LPU + '"]'); var _node = Array.prototype.slice.call(_node_list, 0); _node.forEach(function (elem){ var url = ""; var attr = elem.getAttribute(_ATTRN); var regexp = new RegExp(/\?/); Object.keys(_out).forEach(function (key, i){ if(i === 0){ if(regexp.test(attr)){ url = attr + "&" + key + "=" + _out[key]; }else{ url = attr + "?" + key + "=" + _out[key]; } }else{ url += "&" + key + "=" + _out[key]; } }); elem.setAttribute(_ATTRN, url); }); }
+      if(document.readyState !== "loading"){ route_query(); }else{ document.addEventListener("DOMContentLoaded", route_query); }
+  </script>  
 </head>
 
 <body>

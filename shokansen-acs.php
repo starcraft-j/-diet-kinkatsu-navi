@@ -15,20 +15,20 @@
         <small style="display: block; text-align: right;">PR:ジェイフロンティア</small>
 
         <div class="kiji__fv">
-            <img src="img/kiji/fv-sp.jpg" alt="" width="100%">
+            <img src="img/kiji/fv-pc.jpg" alt="" width="100%">
         </div>
 
         <div class="right text-box">
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font16" href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">→ 公式サイトでお得に購入する</a>
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font20" href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.8" class="font20" href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">→ 公式サイトでお得に購入する</a>
         </div>
 
        <div>
             <?php get_search_form(); ?>
         </div>
 
-        <h2 class="midashi-h2-03">こんなことで悩んでいませんか？</h2>
 
+        <h2 class="midashi-h2-03">こんなことで悩んでいませんか？</h2>
 
         <div class="text-box">
             <div class="boxDeco borderBox-pink3 yellowBox">
@@ -42,42 +42,42 @@
             </div>
         </div>
 
-        <div class="text-box">
-            <p>一つでも当てはまったら『生漢煎「防風通聖散」』をお試しください。</p>
+        <div class="text-box center">
+            <p class="center">一つでも当てはまったら『生漢煎「防風通聖散」』をお試しください。</p>
 
             <p class="center"><span class="kpink font24">↓↓↓↓↓↓</span></p>
 
             <img src="img/kiji/image3.jpg" alt="">
 
-            <p><span class="rred">手ごわいお腹の脂肪も撃退！<br>『生漢煎「防風通聖散」』は効果効能が認められた”医薬品”！</span></p>
+            <p class="left"><span class="rred">手ごわいお腹の脂肪も撃退！<br>『生漢煎「防風通聖散」』は効果効能が認められた”医薬品”！</span></p>
         </div>
 
         <div class="button">
-            <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="./links/bouhu.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
+            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
-            <h2 class="midashi-h2-03">『生漢煎「防風通聖散」』とは？</h2>
+        <h2 class="midashi-h2-03">『生漢煎「防風通聖散」』とは？</h2>
 
 
         <div class="text-box">
             <img src="img/kiji/image9.png" alt="">
-            <p>『生漢煎「防風通聖散」』は、</p>
-            <p>累計販売数1億包を突破した今話題の漢方薬です♪</p>
-            <p>そして、『生漢煎「防風通聖散」』は、</p>
+            <p>『生漢煎「防風通聖散」』は、<br />累計販売数1億包を突破した今話題の漢方薬です♪</p>
+            <p>そして、『生漢煎「防風通聖散」』は、<br /></p>
             <p>❌　サプリメント<br />
-            ⭕　漢方薬（医薬品）</p>
+                ⭕　漢方薬（医薬品）</p>
             <p>です。</p>
-            <p>サプリメントなどの健康食品や機能性表示食品ではなく、<br>
-                <span class="rred">効果効能が認められた「漢方薬（医薬品）」</span>だから<br>
+            <p>サプリメントなどの健康食品や機能性表示食品ではなく、<br />
+                <span class="rred">効果効能が認められた「漢方薬（医薬品）」</span>だから<br />
                 <span class="bold">今まで諦めていた</span><span class="rred">おなかの脂肪にも効果を発揮</span>してくれるんです！
             </p>
+            <p>&nbsp;</p>
         </div>
 
         <div class="button">
-            <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="./links/bouhu.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
+            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -95,31 +95,32 @@
                     <li>定期コースなら初回限定50％OFF＋送料無料！【回数縛りなし！】</li>
                 </ol>
             </div>
-            <p>&nbsp;</p>
-
         </div>
 
         <div class="text-box">
 
-           <h3 class="midashi-h3-01">（１）脂肪を燃焼させる18種類の生薬を配合した「漢方薬」！</h3>
+            <h3 class="midashi-h3-01">（１）脂肪を燃焼させる18種類の生薬を配合した「漢方薬」！</h3>
             <img src="img/kiji/image5.jpg" alt="">
 
             <p>脂肪がたまっていく原因を知っていますか・・・？</p>
             <p>実は、<span class="rred">摂取した栄養物を消費できないこと</span>が脂肪がたまる原因の一つなんです。</p>
+            <p>&nbsp;</p>
             <p>『生漢煎「防風通聖散」』は、<span class="rred">摂取した栄養物を効率よく消費</span>することで脂肪を落としていきます！</p>
             <p>そのカラクリは・・・</p>
             <p>『生漢煎「防風通聖散」』に含まれる<span class="rred">「18種類の生薬」</span>にあります！</p>
             <p><span class="rred">「18種類の生薬」</span>が、</p>
             <p> <span class="bold k-bg-y">代謝UP→便通促進・清熱→利尿</span></p>
-            <p>このサイクルをつくり、<span class="rred">確実に脂肪を落として</span>いきます。</p>
+            <p>このサイクルをつくり、<span class="rred">確実に脂肪を落としていきます。</span></p>
             <p>&nbsp;</p>
 
             <h3 class="midashi-h3-01">（２）「満量処方」で肥満症・便秘・むくみを改善！</h3>
             <img src="img/kiji/image6.jpg" alt="">
 
             <p>漢方薬の処方は、<span class="bold">1日分の生薬の配合バランスが決められている</span>のをご存知ですか？</p>
+            <p>&nbsp;</p>
             <p>処方は大きくこちらに2つに分かれます。</p>
             <p><span class="bold">・1日分使っている漢方薬・・・「満量処方」<br>・1日の半分の量を使っている漢方薬・・・「1/2処方」</span></p>
+            <p>&nbsp;</p>
             <p>「1/2処方」の漢方薬も数多くありますが、<br>『生漢煎「防風通聖散」』は、<span class="rred">1日分丸々使っている「満量処方（最大処方27.1g）」</span>！！</p>
             <p><span class="rred">満量処方の漢方薬だから、脂肪を内側から分解・促進・排出促進し肥満・便秘を改善</span>の効果効能が発揮されるんです！</p>
             <p>また、<br>肥満症・便秘だけでなく、<span class="rred">”むくみ”改善にも効果があり</span>、<br>むくんで太って見えるというお悩みの方にもピッタリな漢方薬でもあります♪</p>
@@ -145,28 +146,27 @@
             <img src="img/kiji/image2.png" alt="">
 
             <p>通常価格8,580円＋330円＝8,910円(税込)が</p>
-            <p>定期コースなら<span class="bold">毎回送料込(無料)で</span></p>
+            <p>定期コースなら<span class="bold">毎回送料込(無料)</span>で</p>
             <p><span class="rred">初回→4,290円(税込)【50％OFF】<br>2回目以降→6,490円(税込)【27％OFF】</span></p>
             <p>に✨</p>
             <p><span class="bold">定期コースに縛りが無い</span>ので、効果がなければ、1ヶ月目でも解約可能！</p>
             <p>効果があれば、継続してお得に飲み続けることができます。</p>
             <p>実際に、<span class="rred">99.2％の方が定期コース</span>を申し込んでいます✨</p>
+            <p>&nbsp;</p>
 
             <img src="img/kiji/image1.jpg" alt="">
 
             <p>しかも、公式サイトからの購入者限定で、<br>どのコースでも初回から使える<span class="rred">【1,100円OFF】クーポンプレゼント中</span>！</p>
             <p>かなりお得です♪</p>
-
         </div>
 
         <div class="button">
-            <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="./links/bouhu.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
+            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
-
-       　<h2 class="midashi-h2-03">『生漢煎「防風通聖散」』の口コミ</h2>
+        <h2 class="midashi-h2-03">『生漢煎「防風通聖散」』の口コミ</h2>
 
 
         <div class="text-box">
@@ -183,7 +183,6 @@
                 <p>いろいろなサプリを試したのですがあまり効果がなくて・・・<br>効果効能が認められている医薬品レベルという生漢煎を見つけて試しに購入してみることにしました。</p>
                 <p>まずは1か月以上試してみたいと思ったので、定期コースで購入しました。</p>
                 <p>お腹の脂肪を落としてくれる成分が入っているみたいなので、効果も期待できそうです♪</p>
-
             </div>
 
             <div class="boxDeco borderBox-green3 greenBox">
@@ -197,37 +196,32 @@
                 </p>
             </div>
 
-            <p class="right font13">※個人の感想です。</p>
+            <p class="right font14">※個人の感想です。</p>
 
-        </div>
-
-        <div class="text-box font14">
-            <h4 class="center">「その他にもたくさんのお声が！！」<br />＼『生漢煎「防風通聖散」』を<br />体験した皆さんの声／</h4>
         </div>
 
         <div class="text-box">
-        <div class="review-box boxDeco borderBox-pink3 pinkBox">
-            <div>
-                <h4 class="font16">すーさん・36歳・女性・専業主婦</h4>
-
-                <p>もともと便秘気味だったのですが、出産してからはさらに便秘がひどくなりました。1週間でないのは当たり前でお腹がとても張り、苦しい毎日を過ごしていました。<br>
-                    たまたまサイトで見かけたこちらの商品をお試しで試してみました。<br>
-                    スティックタイプで持ち運びもとても便利で、外出時にも常に飲むようにしています。<br>
-                    味も漢方特有の苦味とかはなく、飲みやすいと思いました。
-                </p>
-                <p>お値段もリーズナブルでこれからも利用しようと思います。</p>
-
-            </div>
+            <p class="font24 bold">「その他にもたくさんのお声が！！」<br>＼『生漢煎「防風通聖散」』を体験した皆さんの声／</p>
         </div>
+
+        <div class="text-box">
+            <div class="review-box boxDeco borderBox-pink3 pinkBox">
+                <div>
+                    <h4 class="font16">すーさん・36歳・女性・専業主婦　</h4>
+                    <p>もともと便秘気味だったのですが、出産してからはさらに便秘がひどくなりました。1週間でないのは当たり前でお腹がとても張り、苦しい毎日を過ごしていました。<br>たまたまサイトで見かけたこちらの商品をお試しで試してみました。
+                        <br>スティックタイプで持ち運びもとても便利で、外出時にも常に飲むようにしています。
+                        <br>味も漢方特有の苦味とかはなく、飲みやすいと思いました。
+                    </p>
+                    <p>お値段もリーズナブルでこれからも利用しようと思います。</p>
+                </div>
+            </div>
 
             <div class="review-box boxDeco borderBox-pink3 pinkBox">
                 <div>
-                <h4 class="font16">ケイさん・40歳・女性・自営業</h4>
-
-                <p>生漢煎[防風通聖散]を購入したのは、便秘と体重増加で悩んでいて、なんとかしたいと思い、何か良いものがないか探していて、たまたま見つけたのが生漢煎でした。</p>
-                <p>スッキリ明るく過ごせることを期待して試してみました。</p>
-                <p>排便を促す効果があるとのことなので、1日3回の用法・用量を守って飲むことが大事だと思いました。</p>
-
+                    <h4 class="font16">ケイさん・40歳・女性・自営業　</h4>
+                    <p>生漢煎[防風通聖散]を購入したのは、便秘と体重増加で悩んでいて、なんとかしたいと思い、何か良いものがないか探していて、たまたま見つけたのが生漢煎でした。</p>
+                    <p>スッキリ明るく過ごせることを期待して試してみました。</p>
+                    <p>排便を促す効果があるとのことなので、1日3回の用法・用量を守って飲むことが大事だと思いました。</p>
                 </div>
             </div>
 
@@ -243,21 +237,20 @@
         </div>
 
         <div class="button">
-            <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="./links/bouhu.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
+            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
-
-
         <div class="text-box">
-
             <h2 class="midashi-h2-03">『生漢煎「防風通聖散」』は定期コースがお得！</h2>
             <img src="img/kiji/image2.png" alt="">
 
             <p>1箱通常価格8,580円＋330円＝8,910円(税込)が</p>
             <p>定期コースなら<span class="bold">毎回送料込(無料)</span>で</p>
-            <p><span class="rred">初回→4,290円(税込)【50％OFF】<br>2回目以降→6,490円(税込)【27％OFF】</span></p>
+
+            <p><span class="rred">初回→4,290円(税込)【50％OFF】<br />2回目以降→6,490円(税込)【27％OFF】</span></p>
+
             <p>に✨</p>
             <p><span class="bold">定期コースに縛りが無い</span>ので、効果がなければ、1ヶ月目でも解約可能！</p>
             <p>効果があれば、継続してお得に飲み続けることができます。</p>
@@ -265,6 +258,7 @@
             <p>箱数によってさらにお得に！！</p>
 
             <p class="center"><span class="kpink font24">↓↓↓↓↓↓</span></p>
+
 
             <h3 class="midashi-h3-01">【6箱まとめて定期コース】</h3>
             <img src="img/kiji/image11.png" alt="">
@@ -282,12 +276,12 @@
             <img src="img/kiji/image12.png" alt="">
 
             <p>3箱（3ヶ月分）がまとめて届きます♪</p>
+            <p>&nbsp;</p>
             <p><span class="rred">＋「ボタニカルホットジェル」1本</span>が付いてきます♪</p>
+            <p>&nbsp;</p>
             <p>こちらも通常価格で購入するより10,780円もお得になります♪</p>
             <p>6ヶ月間はまだわからないけど、3ヶ月間は飲み続ける！<br>という方におすすめです！</p>
             <p>すでに半年以上ずっと飲み続ける！と決めている方なら、<br>断然「6箱まとめて定期コース」がお得ですが、<br>まずは「1箱から定期コース」でお試しもおすすめです！</p>
-
-            <p>&nbsp;</p>
 
             <img src="img/kiji/image1.jpg" alt="">
             <p>しかも、公式サイトからの購入者限定で、<br>
@@ -297,58 +291,46 @@
         </div>
 
         <div class="button">
-            <p class="center font13 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="./links/bouhu.php<?php echo "?" . $query2; ?>">公式サイトでお得に購入する<i
+            <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
+            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
+
+
     </section>
 
-    <div id="menu">
-        <div class="menubox">
-            <ul id="menu1">
-                <li>
-                    <a href="./unei.php<?php echo "?".$query2; ?>">運営者情報</a>
-                </li>
-                <li>
-                    <a href="./entry4.php<?php echo "?".$query2; ?>">ランキング調査概要</a>
-                </li>
-                <li>
-                    <a href="./privacy.php<?php echo "?".$query2; ?>">プライバシーポリシー</a>
-                </li>
-            </ul>
+
+
+    <div id="footer">
+        <div class="inner">
+            <div class="inner-links">
+                <a href="https://xn--hdks4057bh4s.net/unei.php">運営者情報</a>
+                <a href="https://xn--hdks4057bh4s.net/entry4.php">ランキング調査概要</a>
+                <a href="https://xn--hdks4057bh4s.net/privacy.php">プライバシーポリシー</a>
+            </div>
+            <p>Copyright (C) 2018 優良乳酸菌サプリメントをご紹介All Rights Reserved.</p>
         </div>
     </div>
+
 
 </div>
 
-<div id="footer">
-    <div class="inner">
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-        <p id="footsub"></p>
-        <div id="footer">Copyright (C) 2018 優良乳酸菌サプリメントをご紹介 All Rights Reserved.
-            <script>
-            (function(i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function() {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-                    m = s.getElementsByTagName(o)[0];
-                a.async = 1;
-                a.src = g;
-                m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-98179377-1', 'auto');
+    ga('send', 'pageview');
 
-            ga('create', 'UA-98179377-1', 'auto');
-            ga('send', 'pageview');
-            </script>
+</script>
 
-        </div>
-    </div>
-
-    <!-- FontAwesome -->
-	<script src="https://kit.fontawesome.com/339539da33.js" crossorigin="anonymous"></script>
+<!-- FontAwesome -->
+<script src="https://kit.fontawesome.com/339539da33.js" crossorigin="anonymous"></script>
 
 </body>
 
