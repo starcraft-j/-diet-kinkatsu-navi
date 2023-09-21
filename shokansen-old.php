@@ -19,8 +19,8 @@
         </div>
 
         <div class="right text-box">
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font20" href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
-            <a style="color:#4887d9; text-decoration: underline; line-height: 1.8" class="font20" href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">→ 公式サイトでお得に購入する</a>
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.6" class="font20" href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">定期コースなら初回限定50％OFF＋送料無料</a><br />
+            <a style="color:#4887d9; text-decoration: underline; line-height: 1.8" class="font20" href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">→ 公式サイトでお得に購入する</a>
         </div>
 
        <div>
@@ -54,7 +54,7 @@
 
         <div class="button">
             <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
+            <a href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -77,7 +77,7 @@
 
         <div class="button">
             <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
+            <a href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -162,7 +162,7 @@
 
         <div class="button">
             <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
+            <a href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -238,7 +238,7 @@
 
         <div class="button">
             <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
+            <a href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
@@ -292,7 +292,7 @@
 
         <div class="button">
             <p class="center font16 bold">＼定期コースなら初回限定50％OFF＋送料無料／</p>
-            <a href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
+            <a href="./links/bouhu.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">公式サイトでお得に購入する<i
                     class="fas fa-arrow-circle-right"></i></a>
         </div>
 
