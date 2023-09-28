@@ -42,14 +42,6 @@
   </div>
   <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
 
-  <script>
-    let link = '<?php echo $link; ?>';
-    let delay = 1500; // 遷移までの待ち時間（ミリ秒）
-    setTimeout(function() {
-      location.href = link + '&pbid=' + localStorage.getItem('reroots_clid')
-    }, delay);
-  </script>
-
   <!-- acs設定用 -->
   <script>
     function acsRedirect() {
