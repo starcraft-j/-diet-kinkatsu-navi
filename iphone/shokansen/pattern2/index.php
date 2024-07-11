@@ -186,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="midashi-h3-01">（４）メディアに多数掲載！芸能人も注目！</h3>
             <img src="https://xn--hdks4057bh4s.net/img/kiji/image7.png" alt="">
 
-            <p>女優の神田うのさん、井上和香さんなど、数多くの芸能人も注目している！</p>
+            <p>女優の神田うのさんなど、数多くの芸能人も注目している！</p>
             <p>TV、雑誌など多数メディアにも掲載されている今話題の漢方薬が『生漢煎「防風通聖散」』です♪</p>
             <p>&nbsp;</p>
 

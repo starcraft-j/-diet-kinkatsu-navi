@@ -23,7 +23,7 @@
             <a style="color:#4887d9; text-decoration: underline; line-height: 1.8" class="font20" href="https://xn--hdks4057bh4s.net/links/bouhu-acs.php<?php echo "?".$_SERVER['QUERY_STRING']?>" target="_blank">→ 公式サイトでお得に購入する</a>
         </div>
 
-       <div>
+        <div>
             <?php get_search_form(); ?>
         </div>
 
@@ -138,7 +138,7 @@
             <h3 class="midashi-h3-01">（４）メディアに多数掲載！芸能人も注目！</h3>
             <img src="img/kiji/image7.png" alt="">
 
-            <p>女優の神田うのさん、井上和香さんなど、数多くの芸能人も注目している！</p>
+            <p>女優の神田うのさんなど、数多くの芸能人も注目している！</p>
             <p>TV、雑誌など多数メディアにも掲載されている今話題の漢方薬が『生漢煎「防風通聖散」』です♪</p>
             <p>&nbsp;</p>
 
